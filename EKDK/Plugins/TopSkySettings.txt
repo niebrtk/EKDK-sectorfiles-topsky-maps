@@ -1,6 +1,6 @@
 Setup_COOPANS=1
 Setup=DK
-
+Maps_URL=https://raw.githubusercontent.com/niebrtk/EKDK-sectorfiles-topsky-maps/refs/heads/main/EKDK/Plugins/TopSkyMaps.txt
 Airspace_AOR_Airports=EK
 Airspace_AOR_Positions=EK
 Airspace_C_Flag=EK,ESGG,ESMS
